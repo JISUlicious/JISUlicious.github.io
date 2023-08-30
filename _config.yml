@@ -31,7 +31,9 @@ github_username:  jekyll
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-clean-blog
+# theme: jekyll-theme-clean-blog
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
 # remote_theme: 
 plugins:
   - jekyll-feed
