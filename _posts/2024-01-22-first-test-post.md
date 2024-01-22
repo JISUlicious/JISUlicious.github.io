@@ -7,3 +7,5 @@ tags: [example, markdown]
 ---
 
 This is first post using Jekyll.
+
+edited
